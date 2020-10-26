@@ -4,10 +4,9 @@ import SignIn from './pages/Signin';
 
 const App: React.FC = () => (
   <>
-    <SignIn/>
-    <GlobalStyle/>
+    <SignIn />
+    <GlobalStyle />
   </>
 );
-
 
 export default App;
